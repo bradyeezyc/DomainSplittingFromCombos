@@ -2,7 +2,7 @@
 Splitting unique domains out of combo lists
 
 ## Background
- This was used to read 20+GB text files and process them, this is why mmap file readinga approach has been used.
+ This was used to read 20+GB text files and process them, this is why mmap file reading approach has been used.
 # Usage
 
 ```sh
