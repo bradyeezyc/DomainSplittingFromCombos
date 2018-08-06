@@ -11,7 +11,7 @@ python app.py -f filein.txt -o output.txt ([-d y] if you want debugging)
 ```
 
 ### File
-Expecting the file to be in aaaaaaaaaaaa:bbbbbbbbb format
+Expecting the file to be in ```aaaaaaaaaaaa:bbbbbbbbb``` format
 
 # Licence 
 
